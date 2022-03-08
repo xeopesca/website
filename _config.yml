@@ -18,17 +18,17 @@ avatar:  https://raw.githubusercontent.com/xeopesca/website/master/images/logo12
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: xeopesca@gmail.com
+  facebook: xeopesca
   flickr:
   github: xeopesca
-  instagram:
+  instagram: xeopesca
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss:  feed.xml # just type anything here for a working RSS icon
   twitter: xeopesca
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/xeopesca   # or user/<user-name>
+  youtube: /xeopesca   # or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
