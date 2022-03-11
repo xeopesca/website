@@ -49,14 +49,6 @@
       </div>
     </div>
 
-    <div class="wrapper-footer">
-
-    <div class="tags-expo-list">
-      {% for tag in site.tags %}
-      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-      {% endfor %}
-    </div>
-</div>
     {% include analytics.html %}
   </body>
 </html>
