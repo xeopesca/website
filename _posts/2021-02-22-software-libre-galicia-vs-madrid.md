@@ -21,7 +21,7 @@ Dos datos ofrecidos descóbrese que MICROSOFT IBERICA S.R.L. facturou nese perí
 
 Dende o goberno madrileño dísenos que este gasto afecta a 80.000 postos pero sen indicarnos en que anualidade, o cal imposibilita coñecer con exactitude o facturado por Microsoft por posto anualmente. Se temos como referencia o ano 2017 Microsoft cobrou por cada equipo 12,09€ anualmente, mentres no 2018 sería de 10,29€ anuais.
 
-<table><tbody><tr><td>Ano</td><td>Importe</td></tr><tr><td>2016</td><td>346.328,20 €</td></tr><tr><td>2017</td><td>967.111,04 €</td></tr><tr><td>2018</td><td>823.363,88 €</td></tr><tr><td>2019</td><td>343.068,30 €</td></tr><tr><td><strong>Total</strong></td><td><strong>2.479.871,42 €</strong></td></tr></tbody></table>
+<table><tbody><tr><td>Ano</td><td>Importe</td></tr><tr><td>2016 </td><td>346.328,20 €</td></tr><tr><td>2017 </td><td>967.111,04 €</td></tr><tr><td>2018 </td><td>823.363,88 €</td></tr><tr><td>2019 </td><td>343.068,30 €</td></tr><tr><td><strong>Total</strong></td><td><strong>2.479.871,42 €</strong></td></tr></tbody></table>
 
 O gasto en produtos de Microsoft non é unicamente o facturado pola súa matriz en España, ademais existen empresas partner que funcionan como distribuidoras de servizos da multinacional con sede en Redmond. Algunhas destas proveedoras son consultoras da informática como: BT ESPAÑA - GLOBAL SERVICE, SEIDOR, S.A., SERINGE, S.A, SPECIALIST COMPUTER CENTRES. O importe total facturado por estas consultoras é de 17.758.037,62 €. Se obtemos o promedio de gasto facturado por posto de traballo obtemos que no 2017 facturouse 50,71€/ano por equipo e no 2018 un total 67,11€/ano por equipo.
 
@@ -55,4 +55,4 @@ Pódese consultar integramente a información aportada pola Rexión Madrileña n
 
 Probas:
 
-![](images/equipo.jpg)
+![](../images/equipo.jpg)
