@@ -36,3 +36,16 @@ Podes consultar os estatutos na seguinte [ligazón](doc/asociacion_estatutos-xeo
 - Telegram: [https://t.me/xeopesca/](https://t.me/xeopesca/)
 
 ### Xunta directiva
+• Presidente: Pablo Belay Fernández 
+
+• Vicepresidenta: Lorena Cochón Raimonde 
+
+• Tesoureiro: Xosé Rial Pérez
+
+• Secretario: David Belay Fernández
+
+• Vogal 1: Aitor Gaspar Romero 
+
+• Vogal 2: Javier Alonso Otero 
+
+Esta Xunta Directiva foi acordada na Asamblea Extraordinaria
