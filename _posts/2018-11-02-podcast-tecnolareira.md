@@ -8,7 +8,9 @@ tags:
 coverImage: "tecno_banner.png"
 ---
 
-[![](images/tenolareira1-150x150.png)](https://www.xeopesca.gal/wp-content/uploads/2018/11/tenolareira1.png)
+
+![](../images/tenolareira1-150x150.png)
+
 
 TecnoLareira é un podcast realizado pola Asociación Xeopesca para a difusión da tecnoloxía e a cultura libre. Esta iniciativa ten como obxectivo facer accesible a calquera público as novidades sobre as novas tecnoloxías e os seus usos.  O nome do programa indúcenos a esas conversas sosegadas que se producen ao redor da lareira dun ambiente cordial e familiar.
 
