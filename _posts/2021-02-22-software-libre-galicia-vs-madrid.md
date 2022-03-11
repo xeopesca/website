@@ -51,3 +51,8 @@ Pódese consultar integramente a información aportada pola Rexión Madrileña n
 - [DOC 05](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/blob/master/madrid/DOC05.pdf) - Facturas relacionadas con produtos e servizos de Microsoft.
 
 **Dende a Asociación Xeopesca continuamos agardando pola documentación solicitada a Xunta de Galicia e a AMTEGA no referente aos servizos e produtos contratados.** No ano 2019 fíxose público o dispendio económico de 13,5 millóns de euros en licenzas de código pechado e que tivo como reacción o manifesto “[Polo Software Libre na Educación Galega](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/)”. Comparando os gastos de ámbalas comunidades autónomas, Galicia 13,5 millóns só no 2019 e de 17,7 millóns de Madrid no período 2015-2019. O noso colectivo ve incrementada a nosa preocupación no gasto de solucións privativas e a ausencia de políticas reais na implantación de tecnoloxías libres.
+
+
+Probas:
+
+![](images/equipo.jpg)
