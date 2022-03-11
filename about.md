@@ -51,3 +51,6 @@ Podes consultar os estatutos na seguinte [ligazón](doc/asociacion_estatutos-xeo
 • Vogal 2: Javier Alonso Otero 
 
 Esta Xunta Directiva foi acordada na Asamblea Extraordinaria
+
+
+
