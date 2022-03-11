@@ -1,0 +1,8 @@
+---
+title: "En marcha xeoPesca, un proxecto para crear unha aplicación libre de utilidade para armadores e patróns"
+date: "2013-09-02"
+categories: 
+  - "novas"
+---
+
+Este verán deuse a coñecer dende a nosa terra o xermolo dunha solución informática dirixida a acubillar rexistros da actividade pesqueira das flotas de barcos dos nosos armadores. O proxecto, chamado [xeoPesca](http://xeopesca.com/?page_id=10), vén da man dun proxecto de fin de carreira presentado por Pablo Belay Fernández na Universidade da Coruña, onde acadou, na súa defensa, unha avaliación de 9,5. \[Continua....\] Fonte: [http://www.codigocero.com/En-marcha-xeoPesca-un-proxecto](http://www.codigocero.com/En-marcha-xeoPesca-un-proxecto)
