@@ -5,6 +5,10 @@ permalink: /about/
 ---
 
 
+-[Quen somos?](#quen-somos)
+-[Contacta](#contacta-en)
+-[Xunta directiva](#xunta-directiva)
+
 ### Quen somos?
 
 XeoPesca é unha asociación inscrita no rexistro de asociacións da Xunta de Galicia co número 2014-18137-1  e  CIF: G94095817.
@@ -31,4 +35,4 @@ Podes consultar os estatutos na seguinte [ligazón](doc/asociacion_estatutos-xeo
 - [xeopesca@gmail.com](mailto:xeopesca@gmail.com)
 - Telegram: [https://t.me/xeopesca/](https://t.me/xeopesca/)
 
-![](images/equipo.jpg)
+### Xunta directiva
