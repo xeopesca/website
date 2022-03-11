@@ -17,7 +17,7 @@ No día 17 de Febreiro de 2021 temos a resposta da Comunidade Autónoma de Madri
 
 Dos datos ofrecidos descóbrese que MICROSOFT IBERICA S.R.L. facturou nese período 2.479.871,42 €. Tamén que a facturación e case constante e repetitiva de forma mensual entre outubro de 2016 e agosto de 2017 o importe sempre foi de 86.582,05. Posteriormente prodúcese unha rebaixa 17.968,39 € na facturación mensual sendo un total de 68.613,65. Adxúntase unha captura coa información aportada.
 
-![](.../.../images/image.png)
+![](../images/image.png)
 
 Dende o goberno madrileño dísenos que este gasto afecta a 80.000 postos pero sen indicarnos en que anualidade, o cal imposibilita coñecer con exactitude o facturado por Microsoft por posto anualmente. Se temos como referencia o ano 2017 Microsoft cobrou por cada equipo 12,09€ anualmente, mentres no 2018 sería de 10,29€ anuais.
 
@@ -25,11 +25,11 @@ Dende o goberno madrileño dísenos que este gasto afecta a 80.000 postos pero s
 
 O gasto en produtos de Microsoft non é unicamente o facturado pola súa matriz en España, ademais existen empresas partner que funcionan como distribuidoras de servizos da multinacional con sede en Redmond. Algunhas destas proveedoras son consultoras da informática como: BT ESPAÑA - GLOBAL SERVICE, SEIDOR, S.A., SERINGE, S.A, SPECIALIST COMPUTER CENTRES. O importe total facturado por estas consultoras é de 17.758.037,62 €. Se obtemos o promedio de gasto facturado por posto de traballo obtemos que no 2017 facturouse 50,71€/ano por equipo e no 2018 un total 67,11€/ano por equipo.
 
-![](.../images/image-1.png)
+![](../images/image-1.png)
 
 Agrupando a información por empresas proveedoras a principal beneficiada dos contratos é SEIDOR SA acaparando o 70,7% do gasto por un importe de 12.557.424,18 €
 
-![](.../images/image-2.png)
+![](../images/image-2.png)
 
 Relación de empresas adxudicadas e importes
 
