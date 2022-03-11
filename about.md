@@ -30,3 +30,5 @@ Podes consultar os estatutos na seguinte [ligazón](doc/asociacion_estatutos-xeo
 - info@xeopesca.gal
 - [xeopesca@gmail.com](mailto:xeopesca@gmail.com)
 - Telegram: [https://t.me/xeopesca/](https://t.me/xeopesca/)
+
+![](images/equipo.jpg)
