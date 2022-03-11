@@ -6,7 +6,9 @@ permalink: /about/
 
 
 -[Quen somos?](#quen-somos)
+
 -[Contacta](#contacta-en)
+
 -[Xunta directiva](#xunta-directiva)
 
 ### Quen somos?
